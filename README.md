@@ -36,10 +36,6 @@ A comprehensive restaurant management system for handling customers, inventory, 
 
 ---
 
-## 📸 Screenshots
-> *[Add relevant UI screenshots here]*
-
----
 
 ## ⚙️ Getting Started
 
