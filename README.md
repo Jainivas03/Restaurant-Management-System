@@ -54,6 +54,5 @@ A comprehensive restaurant management system for handling customers, inventory, 
 ```bash
 git clone https://github.com/Jainivas03/Restaurant-Management-System.git
 cd restroflow
-- IntelliJ Idea / Eclipse  
 
 
