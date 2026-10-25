@@ -7,7 +7,6 @@ A comprehensive restaurant management system for handling customers, inventory, 
 - **Backend:** Java 8, Spring Boot, Spring MVC, Spring Security, Spring Data JPA (Hibernate)  
 - **Frontend:** Thymeleaf, HTML, CSS, JavaScript  
 - **Database:** MySQL  
-- **IDE:** Eclipse, Spring Tool Suite (STS)
 
 ---
 
